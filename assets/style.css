@@ -274,7 +274,7 @@ ul.discover-posts li small a {
 }
 
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     body {
         background-color: #01242e;
         color: #ddd;
@@ -312,7 +312,7 @@ ul.discover-posts li small a {
     }
 }
 
-
+*/
 
 ul.blog-posts {
     padding-bottom: 0.61803rem;
