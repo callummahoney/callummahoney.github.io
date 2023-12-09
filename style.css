@@ -136,7 +136,8 @@ body {
   line-height: 32px;
   color: #111111;
   background-color: #eeeeee;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+font-weight: 400;}
 
 #header {
   background-color: white;
