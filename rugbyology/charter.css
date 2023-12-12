@@ -131,7 +131,7 @@ input[type=submit] {
   -webkit-appearance: none; }
 
 body {
-  font-family: "Source Serif 4", sans-serif;
+  font-family: "Charter", sans-serif;
   font-size: 20px;
   line-height: 32px;
   color: #111111;
@@ -238,21 +238,21 @@ kbd {
   font-family: Menlo, Consolas, Monaco, "Andale Mono", Courier, Verdana, sans-serif; }
 
   h1 {
-    font-family: 'Source Serif 4', serif;
+    font-family: 'Charter', serif;
     font-size: 41px;
     line-height: 64px;
     color: #111111;
     margin-bottom: 31px; 
     font-weight: 800;}
   h2 {
-    font-family: 'Source Serif 4', serif;
+    font-family: 'Charter', serif;
     font-size: 29px;
     line-height: 47px;
     margin-top: 50px;
     margin-bottom: 19px;
     font-weight: 800;}
   h3 {
-    font-family: 'Source Serif 4', serif;
+    font-family: 'Charter', serif;
     font-size: 23px;
     line-height: 38px;
     margin-top: 31px;
