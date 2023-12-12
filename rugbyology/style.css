@@ -1,6 +1,6 @@
 /* target the first paragraph immediately following an h2 */
 h2 + p:first-line {
-  font-weight: bold;
+  
   font-variant: small-caps;
 }
 
@@ -221,9 +221,11 @@ a {
   -moz-font-feature-settings: "c2sc", "smcp";
   -webkit-font-feature-settings: "c2sc", "smcp";
   font-feature-settings: "c2sc", "smcp";
-        letter-spacing: 0.03em; 
+        
         text-transform: lowercase;
       } 
+/% removed
+letter-spacing: 0.03em; /%
   
    a.s2caps{
       color: #333333;
