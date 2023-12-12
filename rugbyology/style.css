@@ -1,6 +1,5 @@
 /* target the first paragraph immediately following an h2 */
 h2 + p:first-line {
-  
   font-variant: small-caps;
 }
 
