@@ -1,3 +1,9 @@
+/* target the first paragraph immediately following an h2 */
+h2 + p:first-line {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
 /*
  * ---:[ Focus CSS reset ]:---
  */
