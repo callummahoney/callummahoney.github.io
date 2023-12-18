@@ -1,7 +1,9 @@
 /*
  * ---:[ Focus CSS reset ]:---
  */
-  
+
+@import url('https://fonts.cdnfonts.com/css/goudy-initialen');
+
   @font-face {
     font-family: 'STIX Two Text';
     font-style: normal;
