@@ -216,7 +216,7 @@ a {
   -moz-font-feature-settings: "c2sc", "smcp";
   -webkit-font-feature-settings: "c2sc", "smcp";
   font-feature-settings: "c2sc", "smcp";
-        letter-spacing: 0.03em; 
+        
         text-transform: lowercase;
       } 
   
