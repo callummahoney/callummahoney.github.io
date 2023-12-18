@@ -31,7 +31,7 @@
     font-family: 'Valkyrie';
     font-style: normal;
     font-weight: 400;
-    src: local('/fonts/valkyrie_ot_a_regular.woff2'), url('/fonts/valkyrie_ot_a_regular.woff2') format('woff2'),
+    src: local(''), url('/fonts/valkyrie_ot_a_regular.woff2') format('woff2'),
     url('') format('woff');
     }
 
