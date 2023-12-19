@@ -50,6 +50,30 @@
     src: local(''), url('/fonts/valkyrie_ot_a_bold.woff2') format('woff2'),
     url('') format('woff');
     }
+
+@font-face {
+    font-family: 'Equity';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), url('/fonts/equity_text_b_regular-webfont.woff2') format('woff2'),
+    url('') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Equity';
+    font-style: italic;
+    font-weight: 400;
+    src: local(''), url('/fonts/equity_text_b_italic-webfont.woff2') format('woff2'),
+    url('') format('woff');
+    }
+
+  @font-face {
+    font-family: 'Equity';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''), url('/fonts/equity_text_b_bold-webfont.woff2') format('woff2'),
+    url('') format('woff');
+    }
   
   
   
