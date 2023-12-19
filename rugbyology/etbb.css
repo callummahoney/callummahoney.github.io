@@ -1,6 +1,13 @@
 /*
  * ---:[ Focus CSS reset ]:---
  */
+
+.class {
+  font-variant-caps: small-caps;
+  -moz-font-feature-settings: "smcp";
+  -webkit-font-feature-settings: "smcp";
+  font-feature-settings: "smcp";
+}
   @import url('https://fonts.cdnfonts.com/css/goudy-initialen');
 
   @font-face {
