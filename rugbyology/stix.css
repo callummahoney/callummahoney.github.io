@@ -341,7 +341,7 @@ kbd {
     line-height: 31px;
     font-weight: bold;
     margin-bottom: 7px; 
-  color: #800000;}
+    color: #800000;}
   h1 + h2,
   h2 + h3,
   h2:first-child,
@@ -410,8 +410,8 @@ kbd {
         font-size: 29px;
         line-height: 47px; }
       body:not(.has-sidebar) .grt h4 {
-        font-size: 23px;
-        line-height: 38px; }
+        font-size: 19px;
+        line-height: 31px; }
     .grt .left:not(.bar),
     .grt .alignleft {
       float: left;
