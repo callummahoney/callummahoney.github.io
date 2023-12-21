@@ -341,7 +341,8 @@ kbd {
     line-height: 31px;
     font-weight: bold;
     margin-bottom: 7px; 
-    color: #800000;}
+    color: #800000;
+  font-variant: oldstyle-nums;}
   h1 + h2,
   h2 + h3,
   h2:first-child,
