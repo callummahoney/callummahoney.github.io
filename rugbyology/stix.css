@@ -312,25 +312,26 @@ kbd {
 
   h1 {
     font-family: 'STIX Two Text', serif;
-    font-size: 41px;
-    line-height: 64px;
+    font-size: 39px;
+    line-height: 61px;
     color: #111111;
     margin-bottom: 31px; 
     font-weight: 800;}
   h2 {
     font-family: 'STIX Two Text', serif;
-    font-size: 29px;
-    line-height: 47px;
+    font-size: 31px;
+    line-height: 49px;
     margin-top: 50px;
     margin-bottom: 19px;
     font-weight: 800;}
   h3 {
-    font-family: 'STIX Two Text', serif;
+    font-family: sans-serif;
     font-size: 23px;
     line-height: 38px;
     margin-top: 31px;
     margin-bottom: 12px; 
-    font-weight: 800;}
+    font-weight: 800;
+  text-transform: uppercase;}
   h4 {
     font-size: 18px;
     line-height: 31px;
