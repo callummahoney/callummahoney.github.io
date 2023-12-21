@@ -13,7 +13,7 @@
   }
 
   h2:before {
-    content: counter(headings2) ".";
+    content: none;
     counter-increment: headings2;
   }
 
