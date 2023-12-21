@@ -238,7 +238,7 @@ a {
       .post_content a.button {
         text-decoration: none; }
 .taleb {
-  border: 3px solid #916d4b;
+  border: 3px solid #800000;
   background-color: #fffee1;
   padding: 19px;
   margin-bottom: 31px
@@ -249,7 +249,7 @@ a {
   margin-right: 7px;
   float: left; 
   font-family:'Goudy Initialen';
-  color: #916d4b;}
+  color: #800000;}
 
  .scaps {
  -moz-font-feature-settings: 'smcp';
