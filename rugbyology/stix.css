@@ -107,7 +107,7 @@ h4:before {
     font-family: 'SSP';
     font-style: normal;
     font-weight: 400;
-    src: local('/fonts/SourceSans3-Regular.otf.woff2'), url('') format('woff2'),
+    src: local(''), url('/fonts/SourceSans3-Regular.otf.woff2') format('woff2'),
     url('') format('woff');
     }
 
