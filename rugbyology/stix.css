@@ -23,7 +23,7 @@
   }
 
 h4:before {
-    content: counter(headings2) "." counter(headings3) ". " counter(headings4) ". ";
+    content: counter(headings2) "." counter(headings3) "." counter(headings4);
     counter-increment: headings4;
   }
   .non-numbered:before {
