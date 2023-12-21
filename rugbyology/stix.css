@@ -410,8 +410,8 @@ kbd {
         font-size: 29px;
         line-height: 47px; }
       body:not(.has-sidebar) .grt h4 {
-        font-size: 19px;
-        line-height: 31px; }
+        font-size: 21px;
+        line-height: 35px; }
     .grt .left:not(.bar),
     .grt .alignleft {
       float: left;
