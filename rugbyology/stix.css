@@ -18,7 +18,7 @@
   }
 
   h3:before {
-    content: counter(headings2) ". " counter(headings3) " " ;
+    content: counter(headings2) "." counter(headings3) " " ;
     counter-increment: headings3;
   }
 
