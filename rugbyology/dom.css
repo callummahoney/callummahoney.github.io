@@ -91,7 +91,7 @@ h4:before {
     font-family: 'STIX Two Text';
     font-style: italic;
     font-weight: 400;
-    src: local(''), url('/fonts/SDomitian-Italic.otf') format('otf'),
+    src: local(''), url('/fonts/Domitian-Italic.otf') format('otf'),
     url('/fonts/SourceSerif4-It.otf.woff') format('woff');
     }
 
