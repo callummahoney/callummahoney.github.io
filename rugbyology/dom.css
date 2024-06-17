@@ -83,7 +83,7 @@ h4:before {
     font-family: 'STIX Two Text';
     font-style: normal;
     font-weight: 400;
-    src: local(''), url('/fonts/Domitian-Roman.otf') format('otf'),
+    src: local('/fonts/Domitian-Roman.otf'), url('/fonts/Domitian-Roman.otf') format('otf'),
     url('') format('woff');
     }
 
@@ -91,7 +91,7 @@ h4:before {
     font-family: 'STIX Two Text';
     font-style: italic;
     font-weight: 400;
-    src: local(''), url('/fonts/Domitian-Italic.otf') format('otf'),
+    src: local('/fonts/Domitian-Italic.otf'), url('/fonts/Domitian-Italic.otf') format('otf'),
     url('/fonts/SourceSerif4-It.otf.woff') format('woff');
     }
 
@@ -99,7 +99,7 @@ h4:before {
     font-family: 'STIX Two Text';
     font-style: normal;
     font-weight: 700;
-    src: local(''), url('/fonts/Domitian-Bold.otf') format('otf'),
+    src: local('/fonts/Domitian-Bold.otf'), url('/fonts/Domitian-Bold.otf') format('otf'),
     url('/fonts/SourceSerif4-Bold.otf.woff') format('woff');
     }
   
