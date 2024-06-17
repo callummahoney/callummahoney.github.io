@@ -80,7 +80,7 @@ h4:before {
 @import url('https://fonts.cdnfonts.com/css/goudy-initialen');
 
   @font-face {
-    font-family: 'STIX Two Text';
+    font-family: 'Dom';
     font-style: normal;
     font-weight: 400;
     src: local('/fonts/Domitian-Roman.otf'), url('/fonts/Domitian-Roman.otf') format('otf'),
@@ -88,7 +88,7 @@ h4:before {
     }
 
     @font-face {
-    font-family: 'STIX Two Text';
+    font-family: 'Dom';
     font-style: italic;
     font-weight: 400;
     src: local('/fonts/Domitian-Italic.otf'), url('/fonts/Domitian-Italic.otf') format('otf'),
@@ -96,36 +96,13 @@ h4:before {
     }
 
   @font-face {
-    font-family: 'STIX Two Text';
+    font-family: 'Dom';
     font-style: normal;
     font-weight: 700;
     src: local('/fonts/Domitian-Bold.otf'), url('/fonts/Domitian-Bold.otf') format('otf'),
     url('/fonts/SourceSerif4-Bold.otf.woff') format('woff');
     }
   
-  @font-face {
-    font-family: 'SSP';
-    font-style: normal;
-    font-weight: 400;
-    src: local(''), url('/fonts/SourceSans3-Regular.otf.woff2') format('woff2'),
-    url('') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Valkyrie';
-    font-style: italic;
-    font-weight: 400;
-    src: local(''), url('/fonts/valkyrie_ot_a_italic.woff2') format('woff2'),
-    url('') format('woff');
-    }
-
-  @font-face {
-    font-family: 'SSP';
-    font-style: normal;
-    font-weight: 700;
-    src: local(''), url('/fonts/SourceSans3-Bold.otf.woff2') format('woff2'),
-    url('') format('woff');
-    }
   
   
   
@@ -208,7 +185,7 @@ input[type=submit] {
   -webkit-appearance: none; }
 
 body {
-  font-family: 'STIX Two Text', sans-serif;
+  font-family: 'Dom', sans-serif;
   font-size: 19px;
   line-height: 31px;
   color: #111111;
@@ -315,14 +292,14 @@ kbd {
   font-family: Menlo, Consolas, Monaco, "Andale Mono", Courier, Verdana, sans-serif; }
 
   h1 {
-    font-family: 'STIX Two Text', serif;
+    font-family: 'Dom', serif;
     font-size: 39px;
     line-height: 61px;
     color: #111111;
     margin-bottom: 31px; 
     font-weight: 800;}
   h2 {
-    font-family: 'STIX Two Text', serif;
+    font-family: 'Dom', serif;
     font-size: 31px;
     line-height: 49px;
     margin-top: 50px;
