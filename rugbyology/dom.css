@@ -87,7 +87,7 @@ h4:before {
     url('/fonts/Domitian-Roman.woff2') format('woff2');
     }
 
-    @font-face {
+ /*   @font-face {
     font-family: 'Dom';
     font-style: italic;
     font-weight: 400;
@@ -103,7 +103,7 @@ h4:before {
     url('/fonts/SourceSerif4-Bold.otf.woff') format('woff');
     }
   
-  
+  */
   
   
   * {
