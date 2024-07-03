@@ -83,8 +83,8 @@ h4:before {
     font-family: 'Dom';
     font-style: normal;
     font-weight: 400;
-    src: local('/fonts/Domitian-Roman.otf'), url('/fonts/Domitian-Roman.otf') format('otf'),
-    url('') format('woff');
+    src: local('/fonts/Domitian-Roman.otf'), url('/fonts/Domitian-Roman.woff') format('woff'),
+    url('/fonts/Domitian-Roman.woff2') format('woff2');
     }
 
     @font-face {
