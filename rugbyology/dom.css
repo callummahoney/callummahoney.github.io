@@ -97,7 +97,7 @@ h4:before {
 
   @font-face {
     font-family: 'Dom';
-    font-style: normal;
+    font-style: bold;
     font-weight: 700;
     src: local('/fonts/Domitian-Bold.otf'), url('/fonts/Domitian-Bold.otf') format('otf'),
     url('/fonts/SourceSerif4-Bold.otf.woff') format('woff');
