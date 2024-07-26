@@ -55,7 +55,7 @@
     font-family: 'Equity';
     font-style: normal;
     font-weight: 400;
-    src: local(''), url('/fonts/equity_text_b_regular-webfont.woff2') format('woff2'),
+    src: local(''), url('/fonts/sr.woff2') format('woff2'),
     url('') format('woff');
     }
 
@@ -63,7 +63,7 @@
     font-family: 'Equity';
     font-style: italic;
     font-weight: 400;
-    src: local(''), url('/fonts/equity_text_b_italic-webfont.woff2') format('woff2'),
+    src: local(''), url('/fonts/sri.woff2') format('woff2'),
     url('') format('woff');
     }
 
@@ -71,7 +71,7 @@
     font-family: 'Equity';
     font-style: normal;
     font-weight: 700;
-    src: local(''), url('/fonts/equity_text_b_bold-webfont.woff2') format('woff2'),
+    src: local(''), url('/fonts/sm.woff2') format('woff2'),
     url('') format('woff');
     }
   
