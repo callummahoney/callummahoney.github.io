@@ -1136,7 +1136,8 @@ textarea {
 .crumbs {
   display: flex;
   flex-wrap: wrap;
-  align-items: center; }
+  align-items: center;
+font-family: 'IBM Plex Sans', system}
   .crumbs .crumbs-crumb {
     white-space: nowrap;
     overflow: hidden;
