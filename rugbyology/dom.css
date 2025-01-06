@@ -1,35 +1,9 @@
 /*
- * ---:[ Focus CSS reset ]:---
+ 
  */
 
 
-  /* numbered headings*/
-  body {
-    counter-reset: headings2;
-  }
-
-  h2 {
-    counter-reset: headings3;
-  }
-
-  h2:before {
-    content: counter(headings2) ". ";
-    counter-increment: headings2;
-  }
-
-  h3:before {
-    content: counter(headings2) "." counter(headings3) " " ;
-    counter-increment: headings3;
-  }
-
-h4:before {
-    content: counter(headings2) "." counter(headings3) "." counter(headings4) " ";
-    counter-increment: headings4;
-  }
-  .non-numbered:before {
-    content: none;
-    counter-increment: none;
-  }
+  
 
 /* Tooltip container */
 .tooltip {
