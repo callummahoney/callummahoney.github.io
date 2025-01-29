@@ -119,9 +119,9 @@ body {
   padding-right: var(--spacing-md);
 }
 
-@media all and (min-width: var(--breakpoint-sm)) {
+@media all and (min-width: 682px) {
   .container {
-    max-width: var(--breakpoint-sm);
+    max-width: 644px;  /* Changed from var(--breakpoint-sm) to exact pixel value */
     padding-left: 0;
     padding-right: 0;
     margin-left: auto;
@@ -129,19 +129,19 @@ body {
   }
 }
 
-@media all and (min-width: var(--breakpoint-md)) {
+@media all and (min-width: 706px) {
   .container {
-    max-width: var(--breakpoint-md);
-    padding-left: var(--spacing-md);
-    padding-right: var(--spacing-md);
+    max-width: 100%;  /* Changed from var(--breakpoint-md) to 100% */
+    padding-left: 31px;  /* Changed from var(--spacing-md) to exact pixel value */
+    padding-right: 31px;
     margin-left: 0;
     margin-right: 0;
   }
 }
 
-@media all and (min-width: var(--breakpoint-lg)) {
+@media all and (min-width: 1102px) {
   .container {
-    max-width: var(--breakpoint-lg);
+    max-width: 1040px;  /* Changed from var(--breakpoint-lg) to exact pixel value */
     padding-left: 0;
     padding-right: 0;
     margin-left: auto;
