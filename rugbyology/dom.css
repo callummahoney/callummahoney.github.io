@@ -71,6 +71,12 @@ h5,
 h6 {
   font-weight: normal; }
 
+
+
+article.intro p:first-of-type {
+  font-variant: small-caps; /* Apply small-caps style to the first paragraph */
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
