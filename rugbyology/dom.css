@@ -73,7 +73,7 @@ h6 {
 
 
 
-article.intro p:first-of-type {
+article > p:first-of-type {
   font-variant: small-caps; /* Apply small-caps style to the first paragraph */
 }
 
