@@ -81,7 +81,8 @@
     src: local(''), url('/fonts/ETbb-Bold.woff2') format('woff2'),
     url('') format('woff');
     }
-  
+  @import url(https://fonts.bunny.net/css?family=source-sans-3:300,300i,400,400i,500,600,700,700i,800,900);
+
   
   
   * {
@@ -163,7 +164,7 @@ input[type=submit] {
   -webkit-appearance: none; }
 
 body {
-  font-family: 'etbb', sans-serif;
+  font-family: 'Source Sans 3', sans-serif;
   font-size: 20px;
   line-height: 32px;
   color: #111111;
@@ -270,21 +271,21 @@ kbd {
   font-family: Menlo, Consolas, Monaco, "Andale Mono", Courier, Verdana, sans-serif; }
 
   h1 {
-    font-family: 'etbb', serif;
+    font-family: 'Source Sans 3', serif;
     font-size: 41px;
     line-height: 64px;
     color: #111111;
     margin-bottom: 31px; 
     font-weight: 800;}
   h2 {
-    font-family: 'etbb', serif;
+    font-family: 'Source Sans 3', serif;
     font-size: 29px;
     line-height: 47px;
     margin-top: 50px;
     margin-bottom: 19px;
     font-weight: 800;}
   h3 {
-    font-family: 'etbb', serif;
+    font-family: 'Source Sans 3', serif;
     font-size: 23px;
     line-height: 38px;
     margin-top: 31px;
