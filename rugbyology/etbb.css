@@ -1,5 +1,5 @@
 /*
- * ---:[ Focus CSS reset ]:---
+ * ---:[ potato CSS reset ]:---
  */
 
 .class {
@@ -641,16 +641,16 @@ textarea {
         float: right;
         margin-left: 19px;
         margin-bottom: 0; }
-      .focus .text .byline .avatar {
+      .potato .text .byline .avatar {
         margin-bottom: 7px; }
       @media all and (min-width: 682px) {
         .readability .text .byline .avatar {
           float: left;
           margin-left: 0;
           margin-right: 19px; }
-        .focus .text .byline .avatar {
+        .potato .text .byline .avatar {
           margin-bottom: 12px; } }
-    .focus .text .breakout {
+    .potato .text .breakout {
       margin-left: auto;
       margin-right: auto; }
     .text .breakout.left {
@@ -663,14 +663,14 @@ textarea {
 
 @media all and (min-width: 706px) {
   .readability .text,
-    .focus .text {
+    .potato .text {
       max-width: 644px; }
       .readability .text .extend,
-      .focus .text .extend {
+      .potato .text .extend {
         box-sizing: border-box;
         max-width: calc(100vw - 62px); }
       .readability .text .wp-caption img,
-      .focus .text .wp-caption img {
+      .potato .text .wp-caption img {
         max-width: 100%; }
       .readability .text .headline_area,
       .readability .text .post_content > h1,
@@ -681,33 +681,33 @@ textarea {
       .readability .text .extend,
       .readability .text .extend + .caption {
         margin-right: calc(706px - 100vw); }
-    .focus .text {
+    .potato .text {
       margin-left: auto;
       margin-right: auto; }
-      .focus .text .headline_area,
-      .focus .text .post_content > h1,
-      .focus .text .post_content > h2,
-      .focus .text .post_content > h3,
-      .focus .text .post_content > .impact,
-      .focus .text .extend,
-      .focus .text .extend + .caption {
+      .potato .text .headline_area,
+      .potato .text .post_content > h1,
+      .potato .text .post_content > h2,
+      .potato .text .post_content > h3,
+      .potato .text .post_content > .impact,
+      .potato .text .extend,
+      .potato .text .extend + .caption {
         margin-left: calc(353px - (100vw / 2));
         margin-right: calc(353px - (100vw / 2)); }
-        .focus .text .extend.right {
+        .potato .text .extend.right {
           margin-left: 31px; }
-        .focus .text .extend.left {
+        .potato .text .extend.left {
           margin-right: 31px; } }
 
 @media all and (min-width: 1102px) {
   .readability .text .pullout,
-      .focus .text .pullout {
+      .potato .text .pullout {
         float: right;
         box-sizing: border-box; }
       .readability .text .extend,
-      .focus .text .extend {
+      .potato .text .extend {
         max-width: 1040px; }
         .readability .text .extend .pullout,
-        .focus .text .extend .pullout {
+        .potato .text .extend .pullout {
           float: none;
           max-width: 100%; }
       .readability .text .headline_area,
@@ -728,30 +728,30 @@ textarea {
         .readability .text .extend .pullout {
           margin-left: 0;
           margin-right: 0; }
-      .focus .text .headline_area,
-      .focus .text .post_content > h1,
-      .focus .text .post_content > h2,
-      .focus .text .post_content > h3,
-      .focus .text .post_content > .impact,
-      .focus .text .extend,
-      .focus .text .extend + .caption {
+      .potato .text .headline_area,
+      .potato .text .post_content > h1,
+      .potato .text .post_content > h2,
+      .potato .text .post_content > h3,
+      .potato .text .post_content > .impact,
+      .potato .text .extend,
+      .potato .text .extend + .caption {
         margin-left: -198px;
         margin-right: -198px; }
-      .focus .text .breakout {
+      .potato .text .breakout {
         max-width: calc(504.5px + (100vw - 1040px) / 2);
         margin-left: 31px;
         margin-right: calc(322px - (100vw / 2)); }
-        .focus .text .breakout.left {
+        .potato .text .breakout.left {
           margin-left: calc(322px - (100vw / 2));
           margin-right: 31px; }
-      .focus .text .pullout {
+      .potato .text .pullout {
         max-width: calc(100vw - (100vw - 1040px) / 2 - 873px);
         margin-right: calc(-198px - (100vw - 1040px) / 2); }
-        .focus .text .pullout.left {
+        .potato .text .pullout.left {
           float: left;
           margin-left: calc(-198px - (100vw - 1040px) / 2);
           margin-right: 0; }
-        .focus .text .extend .pullout {
+        .potato .text .extend .pullout {
           margin-left: auto;
           margin-right: auto; }
     .text .breakout,
@@ -774,44 +774,44 @@ textarea {
         margin-right: 0; } }
 
   @media all and (min-width: 682px) {
-    .mode-focus #header,
-      .mode-focus #nav,
-      .mode-focus #nav-secondary,
-      .mode-focus #footer {
+    .mode-potato #header,
+      .mode-potato #nav,
+      .mode-potato #nav-secondary,
+      .mode-potato #footer {
         text-align: center; }
-        .mode-focus #header_image,
-        .mode-focus #logo {
+        .mode-potato #header_image,
+        .mode-potato #logo {
           margin-left: auto;
           margin-right: auto; } }
 
   @media all and (min-width: 682px) {
-    .focus .text .headline_area,
-        .focus .text .featured_image_wrap,
-        .focus .text .post_content h1,
-        .focus .text h2,
-        .focus .text h3,
-        .focus .text h2 + .caption,
-        .focus .text h3 + .caption,
-        .focus .text .impact,
-        .focus .text .extend + .caption,
-        .focus .text .extend .caption {
+    .potato .text .headline_area,
+        .potato .text .featured_image_wrap,
+        .potato .text .post_content h1,
+        .potato .text h2,
+        .potato .text h3,
+        .potato .text h2 + .caption,
+        .potato .text h3 + .caption,
+        .potato .text .impact,
+        .potato .text .extend + .caption,
+        .potato .text .extend .caption {
           text-align: center; }
-          .focus .text .byline .avatar {
+          .potato .text .byline .avatar {
             margin-left: auto;
             margin-right: auto; }
-      .focus .archive_title {
+      .potato .archive_title {
         text-align: center; } }
 
       @media all and (min-width: 706px) {
         .readability .text .wp-post-image,
-        .focus .text .wp-post-image {
+        .potato .text .wp-post-image {
           max-width: calc(100vw - 62px); }
-        .focus .text .wp-post-image {
+        .potato .text .wp-post-image {
           margin-left: auto;
           margin-right: auto; } }
       @media all and (min-width: 1102px) {
         .readability .text .wp-post-image,
-        .focus .text .wp-post-image {
+        .potato .text .wp-post-image {
           max-width: 1040px; } }
 
   .featured_image_link {
@@ -821,14 +821,14 @@ textarea {
 @media all and (min-width: 706px) {
   .readability .text .featured_image_wrap {
         margin-right: calc(706px - 100vw); }
-      .focus .text .featured_image_wrap {
+      .potato .text .featured_image_wrap {
         margin-left: calc(353px - (100vw / 2));
         margin-right: calc(353px - (100vw / 2)); } }
 
 @media all and (min-width: 1102px) {
   .readability .text .featured_image_wrap {
         margin-right: -396px; }
-      .focus .text .featured_image_wrap {
+      .potato .text .featured_image_wrap {
         margin-left: -198px;
         margin-right: -198px; } }
 
@@ -858,7 +858,7 @@ textarea {
     color: #828282;
     margin-right: 19px; }
   @media all and (min-width: 682px) {
-    .mode-focus .menu {
+    .mode-potato .menu {
       justify-content: center; }
     .menu:before {
       display: none; } }
@@ -871,7 +871,7 @@ textarea {
       .text .bar code {
         font-size: 13px; }
       .readability .text .bar,
-      .focus .text .bar {
+      .potato .text .bar {
         box-sizing: border-box;
         float: right;
         clear: right;
@@ -881,10 +881,10 @@ textarea {
       .readability .text .bar {
         max-width: 346px;
         margin-right: -396px; }
-      .focus .text .bar {
+      .potato .text .bar {
         max-width: 167px;
         margin-right: -198px; }
-        .focus .text .bar.left {
+        .potato .text .bar.left {
           float: left;
           clear: left;
           margin-left: -198px; } }
@@ -915,7 +915,7 @@ textarea {
   @media all and (min-width: 1102px) {
     .bleed {
     margin-left: calc(calc(1040px - 100vw) / 2); } }
-  .focus .bleed {
+  .potato .bleed {
     left: 50%;
     right: 50%;
     margin-left: -50vw;
@@ -1088,13 +1088,13 @@ textarea {
     line-height: 1em;
     word-break: normal; }
 
-.logo-focus {
-  font-family: focus, sans-serif;
+.logo-potato {
+  font-family: potato, sans-serif;
   line-height: 1em;
   text-transform: uppercase; }
-  .logo-focus.shadow {
+  .logo-potato.shadow {
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1); }
-  .logo-focus.highlight {
+  .logo-potato.highlight {
     padding-left: 4px;
     padding-right: 4px; }
 
@@ -2225,13 +2225,13 @@ textarea {
 .nav {
   background-color: white;
   border-bottom: 1px dotted rgba(0, 0, 0, 0.15); }
-    #nav-focus.nav .menu {
+    #nav-potato.nav .menu {
       justify-content: flex-start; }
-      #nav-focus.nav .menu:before {
+      #nav-potato.nav .menu:before {
         display: block; }
     #nav-open-graph.nav .menu:before,
     #nav-resources.nav .menu:before,
-    #nav-focus-cards.nav .menu:before,
+    #nav-potato-cards.nav .menu:before,
     #nav-omnitweet.nav .menu:before {
       display: none; }
       #nav-aff.nav .menu .active {
@@ -2240,13 +2240,13 @@ textarea {
     #nav-breadcrumbs.nav .menu:before {
         display: none; } }
   @media all and (min-width: 633px) {
-    #nav-focus.nav .menu:before {
+    #nav-potato.nav .menu:before {
           display: none; } }
   @media all and (min-width: 642px) {
     #nav-account.nav .menu:before {
         display: none; } }
   @media all and (min-width: 682px) {
-    #nav-focus.nav .menu,
+    #nav-potato.nav .menu,
       #nav-omnitweet.nav .menu {
         justify-content: center; }
       #nav-aff.nav .menu {
@@ -2259,13 +2259,13 @@ textarea {
 
 .button {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4); }
-  a.button .logo-focus {
+  a.button .logo-potato {
     font-size: 23px;
     line-height: 18px;
     vertical-align: bottom;
     margin: 0 2px; }
 
-    .grt h2 .logo-focus {
+    .grt h2 .logo-potato {
       text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1); }
       .grt h2.fight .boxing {
         display: inline-block;
@@ -2375,7 +2375,7 @@ textarea {
   background-color: white; }
   .card .card-body {
     padding-top: 25px; }
-    .card.focus-card .checklist li {
+    .card.potato-card .checklist li {
       margin-bottom: 19px; }
     .card.magnet .card-body,
     .card.winning .card-body {
@@ -2434,19 +2434,19 @@ textarea {
     .youtube.yt85 img {
       top: -10%; }
 
-      .focus .text .extend.right {
+      .potato .text .extend.right {
         float: none;
         margin-left: auto;
         margin-right: auto; }
 
 @media all and (min-width: 1040px) {
-  .focus .text .extend.right {
+  .potato .text .extend.right {
           float: right;
           margin-left: 31px;
           margin-right: calc(353px - (100vw / 2)); } }
 
 @media all and (min-width: 1102px) {
-  .focus .text .extend.right {
+  .potato .text .extend.right {
           margin-right: -198px; } }
 
   .template-front .extend + .note.pop {
