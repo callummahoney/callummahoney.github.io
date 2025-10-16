@@ -63,7 +63,7 @@
     font-style: normal;
     font-weight: 400;
     src: local(''), url('https://vhbelvadi.com/fonts/triplicate-subset/triplicate_ot_a_regular-subset.woff2') format('woff2'),
-    url('/fonts/trip-t4-r.woff') format('woff');
+    url('https://practicalseries.com/1001-webdevelopment/21-global/03-fonts/woff/trip-t4-r.woff') format('woff');
     }
 
     @font-face {
