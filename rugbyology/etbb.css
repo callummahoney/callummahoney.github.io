@@ -62,8 +62,8 @@
     font-family: 'etbb';
     font-style: normal;
     font-weight: 400;
-    src: local(''), url('/fonts/ETbb-Regular.woff2') format('woff2'),
-    url('') format('woff');
+    src: local(''), url('') format('woff2'),
+    url('/fonts/trip-t4-r.woff') format('woff');
     }
 
     @font-face {
